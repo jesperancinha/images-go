@@ -1,4 +1,13 @@
 # Images GoLang Library
+
+## Technologies used
+
+---
+
+[![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-50/go-lang-50.png "Java")](https://golang.org/)
+
+---
+
 This library is to give support to image handling for the GoLang projects
 
 ## About me 👨🏽‍💻🚀🏳️‍🌈
