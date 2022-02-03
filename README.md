@@ -22,7 +22,14 @@ This library is to give support to image handling for the GoLang projects
 ## How to build
 
 ```shell
-go points/image-utils.go
+go get -t -v github.com/stretchr/testify/assert
+```
+
+## How to run
+
+
+```shell
+go run points/image-utils.go
 ```
 
 ## How to install Go Lang

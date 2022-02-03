@@ -26,3 +26,4 @@ _testmain.go
 # Intellij
 .idea
 *.iml
+pkg
