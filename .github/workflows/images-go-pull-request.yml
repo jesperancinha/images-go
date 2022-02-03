@@ -1,4 +1,4 @@
-name: images-gon-pull_request
+name: images-go-pull_request
 
 on:
   pull_request:
