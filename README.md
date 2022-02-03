@@ -25,11 +25,44 @@ This library gives support to image handling for the GoLang projects
 go get -t -v github.com/stretchr/testify/assert
 ```
 
-## How to run
+Check that the GO properties are correctly set:
 
+### 1. MAC-OS
 
 ```shell
-go run points/image-utils.go
+GOPATH=/Users/<username>/go
+GOROOT=/usr/local/opt/go/libexec
+```
+
+## How to run
+
+Go to points directory:
+
+```shell
+cd points
+```
+
+### 1. Test
+
+```shell
+go test
+```
+
+### 2. Coverage
+
+```shell
+go test --cover
+```
+### 3. Coverage with .out file
+
+```shell
+go test -coverprofile=coverage.out
+```
+
+### 4. Coverage with .html file
+
+```shell
+go test -coverprofile=coverage.out && go tool cover -html=coverage.out 
 ```
 
 ## How to install Go Lang

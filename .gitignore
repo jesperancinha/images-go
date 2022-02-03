@@ -27,3 +27,6 @@ _testmain.go
 .idea
 *.iml
 pkg
+
+# GoLang
+coverage.out
