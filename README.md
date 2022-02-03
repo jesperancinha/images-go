@@ -5,6 +5,8 @@
 
 [![GitHub License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
+[![.github/workflows/images-go.yml](https://github.com/jesperancinha/images-go/actions/workflows/images-go.yml/badge.svg)](https://github.com/jesperancinha/images-go/actions/workflows/images-go.yml)
+
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/images-go.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/images-go.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/images-go.svg)](#)
