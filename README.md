@@ -34,7 +34,10 @@ Check that the GO properties are correctly set:
 ```shell
 GOPATH=/Users/<username>/go
 GOROOT=/usr/local/opt/go/libexec
+GO111MODULE=auto
 ```
+
+>GO111MODULE can be unset in most test cases.
 
 ## How to run
 
