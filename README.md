@@ -2,7 +2,13 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?logoColor=blue&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial)](https://twitter.com/intent/tweet?text=%20Checkout%20this%20%40github%20repo%20by%20%40joaofse%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%3A%20https%3A//github.com/jesperancinha/images-go)
 [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=Images%20Go&color=informational)](https://github.com/jesperancinha/images-go)
-## Technologies used
+
+
+[![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/images-go.svg)](#)
+[![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/images-go.svg)](#)
+[![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/images-go.svg)](#)
+
+## Tech Stack
 
 ---
 
@@ -11,6 +17,23 @@
 ---
 
 This library is to give support to image handling for the GoLang projects
+
+## How to build
+
+```shell
+go points/image-utils.go
+```
+
+## How to install Go Lang
+
+```shell
+brew install golang
+```
+
+## References
+
+- [How To Install Go and Set Up a Local Programming Environment on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-ubuntu-18-04)
+- [How To Install and Set Up a Local Programming Environment for Go](https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-go)
 
 ## About me 👨🏽‍💻🚀🏳️‍🌈
 
