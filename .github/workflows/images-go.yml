@@ -13,6 +13,6 @@ jobs:
       with:
        go-version: '1.9.3' # The Go version to download (if necessary) and use.
     - name: Install Go Packages
-       run: cd points && go get -t -v github.com/stretchr/testify/assert
+      run: cd points && go get -t -v github.com/stretchr/testify/assert
     - name: Run Go Tests
-       run: cd points && go test -coverprofile=coverage.out && go tool cover -html=coverage.out
+      run: cd points && go test -coverprofile=coverage.out && go tool cover -html=coverage.out
