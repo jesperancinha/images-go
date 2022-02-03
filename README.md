@@ -17,7 +17,7 @@
 
 ---
 
-This library is to give support to image handling for the GoLang projects
+This library gives support to image handling for the GoLang projects
 
 ## How to build
 
