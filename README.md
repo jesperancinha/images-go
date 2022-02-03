@@ -29,7 +29,7 @@ go get -t -v github.com/stretchr/testify/assert
 
 Check that the GO properties are correctly set:
 
-### 1. MAC-OS
+### 1.  MAC-OS
 
 ```shell
 GOPATH=/Users/<username>/go
@@ -47,24 +47,24 @@ Go to points directory:
 cd points
 ```
 
-### 1. Test
+### 1.  Test
 
 ```shell
 go test
 ```
 
-### 2. Coverage
+### 2.  Coverage
 
 ```shell
 go test --cover
 ```
-### 3. Coverage with .out file
+### 3.  Coverage with .out file
 
 ```shell
 go test -coverprofile=coverage.out
 ```
 
-### 4. Coverage with .html file
+### 4.  Coverage with .html file
 
 ```shell
 go test -coverprofile=coverage.out && go tool cover -html=coverage.out 
@@ -78,8 +78,8 @@ brew install golang
 
 ## References
 
-- [How To Install Go and Set Up a Local Programming Environment on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-ubuntu-18-04)
-- [How To Install and Set Up a Local Programming Environment for Go](https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-go)
+-   [How To Install Go and Set Up a Local Programming Environment on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-ubuntu-18-04)
+-   [How To Install and Set Up a Local Programming Environment for Go](https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-go)
 
 ## About me 👨🏽‍💻🚀🏳️‍🌈
 
