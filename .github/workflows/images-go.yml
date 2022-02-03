@@ -15,4 +15,4 @@ jobs:
     - name: Install Go Packages
       run: cd points && go get -t -v github.com/stretchr/testify/assert
     - name: Run Go Tests
-      run: cd points && go test -coverprofile=coverage.out
+      run: cd points && source setup.sh && go test -coverprofile=coverage.out
