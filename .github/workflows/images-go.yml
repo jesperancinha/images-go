@@ -24,7 +24,7 @@ jobs:
       run: cd points && source setup.sh && go get -t -v github.com/stretchr/testify/assert
 
     - name: Run Go Tests
-      run: cd points && source setup.sh && go test -coverprofile=coverage.out
+      run: cd points && source setup.sh && go test -coverprofile=../coverage.out
 
     - name: Send reports
       run: omni_coveragereporter_python.py
