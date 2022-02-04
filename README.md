@@ -9,7 +9,9 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ee806593b1a7428bbad8d41ff2933703)](https://www.codacy.com/gh/jesperancinha/images-go/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jesperancinha/images-go&amp;utm_campaign=Badge_Grade)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/ee806593b1a7428bbad8d41ff2933703)](https://www.codacy.com/gh/jesperancinha/images-go/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jesperancinha/images-go&utm_campaign=Badge_Coverage)
 [![Coverage Status](https://coveralls.io/repos/github/jesperancinha/images-go/badge.svg?branch=master)](https://coveralls.io/github/jesperancinha/images-go?branch=master)
+[![codecov](https://codecov.io/gh/jesperancinha/images-go/branch/master/graph/badge.svg?token=wHpIgacES9)](https://codecov.io/gh/jesperancinha/images-go)
 
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/images-go.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/images-go.svg)](#)
