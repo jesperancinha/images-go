@@ -17,15 +17,9 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/images-go.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/images-go.svg)](#)
 
-## Tech Stack
+## Technologies used
 
----
-
-[![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-50/go-lang-50.png "Java")](https://golang.org/)
-
----
-
-This library gives support to image handling for the GoLang projects
+Please check the [TechStack.md](TechStack.md) file for details.
 
 ## How to build
 
